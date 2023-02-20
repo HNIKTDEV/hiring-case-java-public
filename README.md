@@ -13,10 +13,12 @@
 
 # Gjennomføring
 
-Last ned [hiring-case-java.zip](./hiring-case-java.zip) og pakk den ut til ett passende sted. Du skal ha mottatt ett passord for å åpne innholdet. I den utpakkede mappen vil du finne en `README.md` fil som veileder deg videre.
+Last ned [hiring-case-java.zip](./hiring-case-java.zip) og pakk den ut til ett passende sted. Du skal ha mottatt ett passord for å åpne innholdet i en epost fra oss. I den utpakkede mappen vil du finne en `README.md` fil som veileder deg videre.
 
-Når du er ferdig med oppgavene, lag en ny ZIP fil med din besvarelse og gi denne ett passende navn som `hiring-case-java-kandidatens-navn.zip`. Legg gjerne ved en hash av filen slik at vi kan sjekke integriteten til filen. I "Git Bash" eller kommandolinje på Mac/Linux kan du kjøre kommandoen `sha256sum hiring-case-java-kandidatens-navn.zip`.
+# Levering
 
-Se i din epost om passord for å pakke ut [hiring-case-java.zip](./hiring-case-java.zip), frist for levering av besvarelse og hvor besvarelsen skal sendes.
+Når du er ferdig med oppgavene, lag en ny ZIP fil med din besvarelse og gi denne ett passende navn ala `hiring-case-java-kandidatens-navn.zip`. Pass på at du får med `.git` mappen. Legg gjerne ved en hash av filen slik at vi kan sjekke integriteten til filen vi mottar. I "Git Bash" eller kommandolinje på Mac/Linux kan du kjøre kommandoen `sha256sum hiring-case-java-kandidatens-navn.zip` for å generere hash.
+
+Besvarelsen sendes som ett vedlegg i epost. Hvilken epost-adresse besvarelsen skal sendes til, samt tidsfrist, står beskrevet i epost fra oss.
 
 Lykke til.
