@@ -22,3 +22,7 @@ Når du er ferdig med oppgavene, lag en ny ZIP fil med din besvarelse og gi denn
 Besvarelsen sendes som ett vedlegg i epost. Hvilken epost-adresse besvarelsen skal sendes til, samt tidsfrist, står beskrevet i epost fra oss.
 
 Lykke til.
+
+## Feil i oppgavetekst
+
+ * Oppgave 4: `Lever en liste over alle - f.eks listAllMaleFirstNames()` skulle nok vært `Lever en liste over alle - f.eks listAll()`.
