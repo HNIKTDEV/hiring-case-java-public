@@ -9,5 +9,6 @@ Besvarelsen sendes som ett vedlegg i epost. Hvilken epost-adresse besvarelsen sk
 Lykke til.
 
 ## Feil i oppgave
+* 09.11.2023 15:17 - Det står: "Du må velge å enten videreutvikle patgen-app/patgen-app-vue eller patgen-app/patgen-app-vue" Her skal det stå "patgen-app/patgen-app-react" i den siste delen.
 
-*Placeholder* for eventuelle feil som er oppdaget etter at oppgave er levert til kandidat.
+
