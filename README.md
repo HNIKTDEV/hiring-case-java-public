@@ -1,6 +1,6 @@
 # Gjennomføring
 
-Åpne [hiring-case-java-2023-11-08.zip.README.md](./hiring-case-java-2023-11-08.zip.README.md) og følg instruksjonene der.
+Åpne [hiring-case-java-2023-11-08.zip.README.md](./hiring-case-java-2023-11-09.zip.README.md) og følg instruksjonene der.
 
 # Levering
 
